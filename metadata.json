@@ -1,0 +1,5 @@
+{
+  "name": "StatementAI",
+  "description": "A universal bank statement analyzer powered by Gemini. Upload PDFs or images to extract, categorize, and visualize your transaction history instantly.",
+  "requestFramePermissions": []
+}
